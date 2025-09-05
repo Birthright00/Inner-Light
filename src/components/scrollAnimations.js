@@ -25,7 +25,7 @@ export class ScrollAnimations {
     observeElements() {
         // Observe elements with animation classes
         const animatedElements = document.querySelectorAll(
-            '.animate-slide-up, .animate-slide-left, .animate-slide-right, .animate-fade-in'
+            '.animate-slide-up, .animate-slide-left, .animate-slide-right, .animate-fade-in, .animate-stagger'
         );
         
         animatedElements.forEach(element => {

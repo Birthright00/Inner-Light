@@ -57,21 +57,21 @@ export class AboutPage {
             <section class="mission-vision section">
                 <div class="container">
                     <div class="mv-grid">
-                        <div class="mv-card">
+                        <div class="mv-card animate-slide-up animate-stagger">
                             <div class="mv-icon">
                                 <i class="fas fa-bullseye"></i>
                             </div>
                             <h3>Our Mission</h3>
                             <p>To empower individuals by unlocking their inner confidence and helping them develop the skills, mindset, and presence needed to succeed in modeling and life.</p>
                         </div>
-                        <div class="mv-card">
+                        <div class="mv-card animate-slide-up animate-stagger">
                             <div class="mv-icon">
                                 <i class="fas fa-eye"></i>
                             </div>
                             <h3>Our Vision</h3>
                             <p>To be the leading modeling training institute that transforms lives by nurturing confidence, grace, and authentic self-expression in every student.</p>
                         </div>
-                        <div class="mv-card">
+                        <div class="mv-card animate-slide-up animate-stagger">
                             <div class="mv-icon">
                                 <i class="fas fa-gem"></i>
                             </div>
@@ -90,28 +90,28 @@ export class AboutPage {
                         <p>A comprehensive methodology designed to transform confidence from the inside out</p>
                     </div>
                     <div class="approach-steps">
-                        <div class="approach-step">
+                        <div class="approach-step animate-slide-left animate-stagger">
                             <div class="step-number">01</div>
                             <div class="step-content">
                                 <h3>Assessment & Goal Setting</h3>
                                 <p>We begin with a comprehensive assessment of your current skills and confidence level, then work with you to set achievable goals.</p>
                             </div>
                         </div>
-                        <div class="approach-step">
+                        <div class="approach-step animate-slide-right animate-stagger">
                             <div class="step-number">02</div>
                             <div class="step-content">
                                 <h3>Technical Training</h3>
                                 <p>Master the fundamentals of runway walking, posture, and movement through structured lessons and hands-on practice.</p>
                             </div>
                         </div>
-                        <div class="approach-step">
+                        <div class="approach-step animate-slide-left animate-stagger">
                             <div class="step-number">03</div>
                             <div class="step-content">
                                 <h3>Confidence Building</h3>
                                 <p>Develop unshakeable self-confidence through proven psychological techniques and positive reinforcement.</p>
                             </div>
                         </div>
-                        <div class="approach-step">
+                        <div class="approach-step animate-slide-right animate-stagger">
                             <div class="step-number">04</div>
                             <div class="step-content">
                                 <h3>Real-World Practice</h3>
@@ -126,22 +126,22 @@ export class AboutPage {
             <section class="about-stats section">
                 <div class="container">
                     <div class="stats-grid">
-                        <div class="stat-card">
+                        <div class="stat-card animate-slide-up animate-stagger">
                             <div class="stat-number">20+</div>
                             <div class="stat-label">Students Trained</div>
                             <p>Successfully graduated from our programs</p>
                         </div>
-                        <div class="stat-card">
+                        <div class="stat-card animate-slide-up animate-stagger">
                             <div class="stat-number">2024</div>
                             <div class="stat-label">Founded</div>
                             <p>Year we started transforming lives</p>
                         </div>
-                        <div class="stat-card">
+                        <div class="stat-card animate-slide-up animate-stagger">
                             <div class="stat-number">100%</div>
                             <div class="stat-label">Success Rate</div>
                             <p>Students report improved confidence</p>
                         </div>
-                        <div class="stat-card">
+                        <div class="stat-card animate-slide-up animate-stagger">
                             <div class="stat-number">2</div>
                             <div class="stat-label">Expert Instructors</div>
                             <p>Yen and Ada - your modeling mentors</p>
@@ -158,33 +158,26 @@ export class AboutPage {
                         <p>Discover why students choose Inner Light Studio for their transformation journey</p>
                     </div>
                     <div class="differences-grid">
-                        <div class="difference-item">
+                        <div class="difference-item animate-fade-in animate-stagger">
                             <div class="difference-icon">
                                 <i class="fas fa-users-cog"></i>
                             </div>
                             <h3>Personalized Approach</h3>
                             <p>Every student receives individual attention and a customized training plan based on their unique needs and goals.</p>
                         </div>
-                        <div class="difference-item">
+                        <div class="difference-item animate-fade-in animate-stagger">
                             <div class="difference-icon">
                                 <i class="fas fa-medal"></i>
                             </div>
                             <h3>Expert Instructors</h3>
                             <p>Learn from experienced professionals who have worked in the modeling industry and understand what it takes to succeed.</p>
                         </div>
-                        <div class="difference-item">
+                        <div class="difference-item animate-fade-in animate-stagger">
                             <div class="difference-icon">
                                 <i class="fas fa-heart-pulse"></i>
                             </div>
                             <h3>Holistic Development</h3>
                             <p>We focus not just on technical skills, but on building genuine confidence and personal growth.</p>
-                        </div>
-                        <div class="difference-item">
-                            <div class="difference-icon">
-                                <i class="fas fa-handshake"></i>
-                            </div>
-                            <h3>Ongoing Support</h3>
-                            <p>Our commitment to your success doesn't end with graduation. We provide continued guidance and networking opportunities.</p>
                         </div>
                     </div>
                 </div>
@@ -193,7 +186,7 @@ export class AboutPage {
             <!-- Call to Action -->
             <section class="about-cta section">
                 <div class="container">
-                    <div class="cta-content">
+                    <div class="cta-content animate-fade-in">
                         <h2>Ready to Unlock Your Inner Light?</h2>
                         <p>Join hundreds of successful graduates who have transformed their confidence and achieved their modeling goals.</p>
                         <div class="cta-buttons">
