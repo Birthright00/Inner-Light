@@ -9,8 +9,8 @@ export class InstructorsPage {
                 taglineKey: 'instructor.yen.tagline',
                 bioKey: 'instructor.yen.bio',
                 experience: '8+ Years',
-                students: '400+',
-                awards: '20+',
+                students: '200+',
+                brands: '20+',
                 image: 'public/images/instructors/yen-profile.jpg',
                 specializations: [
                     'Runway Walking',
@@ -30,9 +30,9 @@ export class InstructorsPage {
                 titleKey: 'instructor.ada.title',
                 taglineKey: 'instructor.ada.tagline',
                 bioKey: 'instructor.ada.bio',
-                experience: '6+ Years',
-                students: '300+',
-                certifications: '12+',
+                experience: '3+ Years',
+                students: '50+',
+                brands: '20+',
                 image: 'public/images/instructors/ada-profile.jpg',
                 specializations: [
                     'Posture Correction',
@@ -57,7 +57,8 @@ export class InstructorsPage {
             'instructors.subtitle': 'Meet the world-class coaches who will guide your transformation journey',
             'instructors.experience': 'Experience',
             'instructors.students': 'Students',
-            'instructors.certifications': 'Certifications',
+            'instructors.brands': 'Brands Worked With',
+            'instructors.awards': 'Brands Worked With',
             'instructors.specializations': 'Specializations',
             'instructors.viewProfile': 'View Profile',
             'instructors.cta.title': 'Ready to Learn from the Best?',
@@ -76,6 +77,7 @@ export class InstructorsPage {
             'instructor.backToInstructors': '← Back to Instructors',
             'instructor.experienceLabel': 'Experience',
             'instructor.studentsTrained': 'Students Trained',
+            'instructor.brandsWorkedWith': 'Brands Worked With',
             'instructor.teachingSpecializations': 'Teaching Specializations',
             'instructor.gallery': 'Gallery',
             'instructor.gallerySubtitle': 'Moments from career and teaching journey',
@@ -142,8 +144,8 @@ export class InstructorsPage {
                                             <span class="stat-label">${instructor.experience ? t('instructors.experience') : t('instructors.students')}</span>
                                         </div>
                                         <div class="stat">
-                                            <span class="stat-value">${instructor.students || instructor.certifications || instructor.events}</span>
-                                            <span class="stat-label">${instructor.students ? t('instructors.students') : instructor.certifications ? t('instructors.certifications') : t('instructors.events')}</span>
+                                            <span class="stat-value">${instructor.students || instructor.brands || instructor.events}</span>
+                                            <span class="stat-label">${instructor.students ? t('instructors.students') : instructor.brands ? t('instructors.brands') : t('instructors.events')}</span>
                                         </div>
                                     </div>
                                     <div class="specializations-preview">
@@ -236,8 +238,8 @@ export class InstructorsPage {
                                     <p>${t('instructor.studentsTrained')}</p>
                                 </div>
                                 <div class="stat">
-                                    <h4>${instructor.awards || instructor.certifications || instructor.events}</h4>
-                                    <p>${instructor.awards ? t('instructors.awards') : instructor.certifications ? t('instructors.certifications') : t('instructors.events')}</p>
+                                    <h4>${instructor.brands}</h4>
+                                    <p>${t('instructor.brandsWorkedWith')}</p>
                                 </div>
                             </div>
                             <div class="social-links">
