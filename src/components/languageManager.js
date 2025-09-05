@@ -113,6 +113,60 @@ export class LanguageManager {
                 'instructor.ada.tagline': 'Perfecting body alignment and graceful movement',
                 'instructor.ada.bio': 'Ada brings expertise in movement coaching and posture correction to Inner Light Studio. With a background in dance and fitness, she helps students achieve perfect body alignment and develop graceful, confident movement.',
                 
+                // About page
+                'about.title': 'About Inner Light Studio',
+                'about.subtitle': 'Empowering individuals through professional modeling training and confidence coaching',
+                
+                'about.story.title': 'Our Story',
+                'about.story.paragraph1': 'Inner Light Studio was founded with a vision to illuminate the confidence and potential within every individual. We are a premier modeling training institute that specializes in transforming lives through professional coaching.',
+                'about.story.paragraph2': 'What started as a small studio with a passionate instructor has grown into a recognized training center that has helped over 1000 students discover their inner confidence and master the art of modeling.',
+                'about.story.paragraph3': 'Our expert instructors teach essential skills including runway walking, posture correction, confidence building, and personal development techniques to help you shine with authenticity and grace.',
+                
+                'about.highlights.founded': 'Founded',
+                'about.highlights.students': 'Students Trained',
+                'about.highlights.success': 'Success Rate',
+                
+                'about.mission.title': 'Our Mission',
+                'about.mission.description': 'To empower individuals by unlocking their inner confidence and helping them develop the skills, mindset, and presence needed to succeed in modeling and life.',
+                'about.vision.title': 'Our Vision',
+                'about.vision.description': 'To be the leading modeling training institute that transforms lives by nurturing confidence, grace, and authentic self-expression in every student.',
+                'about.values.title': 'Our Values',
+                'about.values.description': 'Authenticity, Excellence, Empowerment, and Growth. We believe that true beauty comes from confidence and being genuinely yourself.',
+                
+                'about.approach.title': 'Our Training Approach',
+                'about.approach.subtitle': 'A comprehensive methodology designed to transform confidence from the inside out',
+                'about.approach.step1.title': 'Assessment & Goal Setting',
+                'about.approach.step1.description': 'We begin with a comprehensive assessment of your current skills and confidence level, then work with you to set achievable goals.',
+                'about.approach.step2.title': 'Technical Training',
+                'about.approach.step2.description': 'Master the fundamentals of runway walking, posture, and movement through structured lessons and hands-on practice.',
+                'about.approach.step3.title': 'Confidence Building',
+                'about.approach.step3.description': 'Develop unshakeable self-confidence through proven psychological techniques and positive reinforcement.',
+                'about.approach.step4.title': 'Real-World Practice',
+                'about.approach.step4.description': 'Apply your skills in realistic scenarios and receive constructive feedback to refine your abilities.',
+                
+                'about.stats.students': 'Students Trained',
+                'about.stats.students.description': 'Successfully graduated from our programs',
+                'about.stats.founded': 'Founded',
+                'about.stats.founded.description': 'Year we started transforming lives',
+                'about.stats.success': 'Success Rate',
+                'about.stats.success.description': 'Students report improved confidence',
+                'about.stats.instructors': 'Expert Instructors',
+                'about.stats.instructors.description': 'Yen and Ada - your modeling mentors',
+                
+                'about.differences.title': 'What Makes Us Different',
+                'about.differences.subtitle': 'Discover why students choose Inner Light Studio for their transformation journey',
+                'about.differences.personalized.title': 'Personalized Approach',
+                'about.differences.personalized.description': 'Every student receives individual attention and a customized training plan based on their unique needs and goals.',
+                'about.differences.expert.title': 'Expert Instructors',
+                'about.differences.expert.description': 'Learn from experienced professionals who have worked in the modeling industry and understand what it takes to succeed.',
+                'about.differences.holistic.title': 'Holistic Development',
+                'about.differences.holistic.description': 'We focus not just on technical skills, but on building genuine confidence and personal growth.',
+                
+                'about.cta.title': 'Ready to Unlock Your Inner Light?',
+                'about.cta.subtitle': 'Join hundreds of successful graduates who have transformed their confidence and achieved their modeling goals.',
+                'about.cta.button1': 'Explore Our Programs',
+                'about.cta.button2': 'Schedule a Consultation',
+
                 // Common
                 'common.loading': 'Loading...',
                 'common.learnMore': 'Learn More',
@@ -230,6 +284,60 @@ export class LanguageManager {
                 'instructor.ada.tagline': '完善身体协调与优雅动作',
                 'instructor.ada.bio': 'Ada为内在光芒工作室带来了肢体指导和姿态矫正方面的专业知识。凭借舞蹈和健身背景，她帮助学员实现完美的身体协调，培养优雅自信的动作。',
                 
+                // About page
+                'about.title': '关于内在光芒工作室',
+                'about.subtitle': '通过专业模特培训和自信指导赋能个人',
+                
+                'about.story.title': '我们的故事',
+                'about.story.paragraph1': '内在光芒工作室成立的愿景是照亮每个人内在的自信和潜力。我们是一家专业的模特培训机构，专注于通过专业指导改变生活。',
+                'about.story.paragraph2': '从一个只有一名热情导师的小工作室开始，我们现在已经发展成为一个知名的培训中心，帮助超过1000名学员发现内在自信，掌握模特艺术。',
+                'about.story.paragraph3': '我们的专业导师教授包括T台走秀、姿态矫正、自信建立和个人发展技巧在内的核心技能，帮助您以真实和优雅的方式发光发热。',
+                
+                'about.highlights.founded': '成立年份',
+                'about.highlights.students': '已培训学员',
+                'about.highlights.success': '成功率',
+                
+                'about.mission.title': '我们的使命',
+                'about.mission.description': '通过释放个人内在自信，帮助他们培养在模特行业和生活中取得成功所需的技能、心态和气质，从而赋能每个人。',
+                'about.vision.title': '我们的愿景',
+                'about.vision.description': '成为领先的模特培训机构，通过培养每位学员的自信、优雅和真实自我表达来改变生活。',
+                'about.values.title': '我们的价值观',
+                'about.values.description': '真实、卓越、赋权和成长。我们相信真正的美来自于自信和做真实的自己。',
+                
+                'about.approach.title': '我们的培训方法',
+                'about.approach.subtitle': '一个旨在从内而外改变自信的综合方法论',
+                'about.approach.step1.title': '评估与目标设定',
+                'about.approach.step1.description': '我们首先对您当前的技能和自信水平进行全面评估，然后与您一起制定可实现的目标。',
+                'about.approach.step2.title': '技能培训',
+                'about.approach.step2.description': '通过结构化课程和实践练习，掌握T台走秀、姿态和动作的基本功。',
+                'about.approach.step3.title': '自信建立',
+                'about.approach.step3.description': '通过经过验证的心理技巧和积极强化，培养不可动摇的自信心。',
+                'about.approach.step4.title': '实战练习',
+                'about.approach.step4.description': '在真实场景中应用您的技能，接受建设性反馈以完善您的能力。',
+                
+                'about.stats.students': '已培训学员',
+                'about.stats.students.description': '成功从我们的课程中毕业',
+                'about.stats.founded': '成立年份',
+                'about.stats.founded.description': '我们开始改变生活的年份',
+                'about.stats.success': '成功率',
+                'about.stats.success.description': '学员报告自信心得到提升',
+                'about.stats.instructors': '专业导师',
+                'about.stats.instructors.description': 'Yen和Ada - 您的模特导师',
+                
+                'about.differences.title': '我们的与众不同',
+                'about.differences.subtitle': '发现为什么学员选择内在光芒工作室进行蜕变之旅',
+                'about.differences.personalized.title': '个性化方法',
+                'about.differences.personalized.description': '每位学员都会得到个人关注和基于其独特需求和目标的定制培训计划。',
+                'about.differences.expert.title': '专业导师',
+                'about.differences.expert.description': '向在模特行业工作过的经验丰富的专业人士学习，他们了解成功所需的条件。',
+                'about.differences.holistic.title': '全面发展',
+                'about.differences.holistic.description': '我们不仅关注技术技能，还致力于建立真正的自信和个人成长。',
+                
+                'about.cta.title': '准备点亮您的内在光芒吗？',
+                'about.cta.subtitle': '加入数百名成功毕业生的行列，他们已经改变了自信并实现了模特目标。',
+                'about.cta.button1': '探索我们的课程',
+                'about.cta.button2': '预约咨询',
+
                 // Common
                 'common.loading': '加载中...',
                 'common.learnMore': '了解更多',
