@@ -41,7 +41,7 @@ export class HomePage {
                             <p>Our expert instructors teach essential skills including runway walking, posture correction, and confidence building to help you shine with authenticity and grace.</p>
                             <div class="stats stagger-animation">
                                 <div class="stat">
-                                    <h4>20+</h4>
+                                    <h4>300+</h4>
                                     <p>Students Trained</p>
                                 </div>
                                 <div class="stat">
